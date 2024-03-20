@@ -1,1 +1,2 @@
 # Job-Shop-Accounting-System
+Designed and implemented a Job-Shop Accounting System as part of my Database Management Systems coursework. This comprehensive system supports various accounting operations, integrates with Azure SQL Database for storage, and utilizes a Java-based web interface for user interaction. My role encompassed database schema design, SQL and Transact-SQL development, Java programming, and web application development.
